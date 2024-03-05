@@ -1,6 +1,6 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@NPq|r;8v0D5w0t{BQ(J" x="0" y="0"></block><block type="device_forever" id="Y53]^ElbkX,nfgxh#6o_" x="205" y="0"></block><block type="device_button_event" id="?S05{[Z/WNrl/kIF7fL@" x="8" y="164"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="D%.//kvGH*xSu)+M~Khi"><field name="LEDS">`
-        . . # . . 
-        # # . # # 
+        . . . . . 
+        . # . # . 
         . . . . . 
         # . . . # 
         . # # # .
